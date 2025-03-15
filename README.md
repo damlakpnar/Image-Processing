@@ -12,4 +12,4 @@ Proje kapsamında:
 
 Google Colab üzerinden, her bir adım açıklamalı şekilde yazılmış ve proje kodu çalıştırılarak elde edilen sonuçlar gözlemlenmiştir.
 
-![Google Colab](https://upload.wikimedia.org/wikipedia/commons/9/92/Google_Colab_Logo.png)
+
